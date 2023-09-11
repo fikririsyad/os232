@@ -1,4 +1,4 @@
 # os232
-[GitHub](https://github.com/fikririsyad/os232) | [LOG](https://fikririsyad.github.io/os232/TXT/mylog.txt) | [TARBALL](https://os.vlsm.org/Log/fikririsyad.tar.bz2.txt)
+[GitHub](.) | [LOG](./TXT/mylog.txt) | [LINKS](./links.md) [TARBALL](https://os.vlsm.org/Log/fikririsyad.tar.bz2.txt)
 
-REV002: Sat 2 Sep 2023 19.06
+REV003: Mon 11 Sep 2023 08.18
